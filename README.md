@@ -39,8 +39,10 @@
 
 - 🏫 <span><b>Bachelor of Science in Computer Science</b></span>  
   <span>Currently studying and actively applying what I learn to real-world projects.</span>
+  
 - 🧠 <span><b>Self-Taught Explorer</b></span>  
   <span>Continuously learning through hands-on practice, online tutorials, and building projects.</span>
+  
 - 🚀 <span><b>Project-Based Learning</b></span>  
   <span>I believe in learning by doing—each project helps me grow my skills and deepen my understanding.</span>
 
@@ -68,28 +70,26 @@
 <img src="assets/flame.webp" width="30px" align="left"/>
 <img src="assets/flame.webp" width="30px" align="right"/>
 <h2 align="center">Roadmap & Developer Goals</h2>
-<img flex align="right" src="assets/programer.gif" width="200px" height="300px" alt="">
+<img flex align="right" src="assets/programer.gif" width="300px" height="500px" alt="">
 
-```mermaid
-timeline
-    title Developer Roadmap
+
+###title Developer Roadmap
     
-    2022 : Started BS Computer Science
+  <p>2022 : Started BS Computer Science</p>
     
-    2023 : Learned HTML, CSS, JS basics and built first web projects
+  <p>2023 : Learned HTML, CSS, JS basics and built first web projects</p>
     
-    2023 : Discovered and used Firebase for authentication and database
+  <p>2023 : Discovered and used Firebase for authentication and database</p>
     
-    2024 : Mastering frontend development and real-world app building
+  <p>2024 : Mastering frontend development and real-world app building </p>
     
-    2024 : Exploring backend/cloud (Firebase, Python)
+  <p>2024 : Exploring backend/cloud (Firebase, Python)</p>
     
-    2025 : Learning frameworks (React, more advanced tools)
+  <p>2025 : Learning frameworks (React, more advanced tools)</p>
     
-    2025 : Working towards full-stack developer skills
+  <p>2025 : Working towards full-stack developer skills
     
-    Future : Open to joining hackathons, communities, and contributing to open source
-```
+  <p>Future : Open to joining hackathons, communities, and contributing to open source
 
 <p align="center">
   <img src="assets/micedekun.gif" width="100%" height="3px"/>

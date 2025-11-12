@@ -27,9 +27,7 @@
 <p align="center">
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h3 align="center">Educational Journey</h3>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h3 align="center">Educational Journey</h3>
 
   <img src="https://github.com/MiceDe27/Mice_De/blob/main/micedekun.gif" width="100%" height="3px"/>
 </p>
@@ -39,10 +37,8 @@
 
 - 🏫 <span><b>Bachelor of Science in Computer Science</b></span>  
   <span>Currently studying and actively applying what I learn to real-world projects.</span>
-  
 - 🧠 <span><b>Self-Taught Explorer</b></span>  
   <span>Continuously learning through hands-on practice, online tutorials, and building projects.</span>
-  
 - 🚀 <span><b>Project-Based Learning</b></span>  
   <span>I believe in learning by doing—each project helps me grow my skills and deepen my understanding.</span>
 
@@ -50,8 +46,8 @@
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
+<img src="assets/flame.gif" width="50px" align="left"/>
+<img src="assets/flame.gif" width="50px" align="right"/>
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
@@ -67,37 +63,34 @@
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Roadmap & Developer Goals</h2>
-<img flex align="right" src="assets/programer.gif" width="300px" height="500px" alt="">
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Roadmap & Developer Goals</h2>
+<img flex align="right" src="assets/programer.gif" width="200px" height="300px" alt="">
 
 
-title Developer Roadmap
+timeline
+    title Developer Roadmap
     
-  <p>2022 : Started BS Computer Science</p>
+2022 : Started BS Computer Science
     
-  <p>2023 : Learned HTML, CSS, JS basics and built first web projects</p>
+2023 : Learned HTML, CSS, JS basics and built first web projects
     
-  <p>2023 : Discovered and used Firebase for authentication and database</p>
+2023 : Discovered and used Firebase for authentication and database
     
-  <p>2024 : Mastering frontend development and real-world app building </p>
+2024 : Mastering frontend development and real-world app building
+
+2024 : Exploring backend/cloud (Firebase, Python)
     
-  <p>2024 : Exploring backend/cloud (Firebase, Python)</p>
+2025 : Learning frameworks (React, more advanced tools)
     
-  <p>2025 : Learning frameworks (React, more advanced tools)</p>
+2025 : Working towards full-stack developer skills
     
-  <p>2025 : Working towards full-stack developer skills
-    
-  <p>Future : Open to joining hackathons, communities, and contributing to open source
+Future : Open to joining hackathons, communities, and contributing to open sourc
 
 <p align="center">
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Interest & Hobbies</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Interest & Hobbies</h2>
 
 - 💻 <span>Coding for fun and continuous growth</span>
 - 🧩 <span>Solving logic & math problems</span>
@@ -107,9 +100,7 @@ title Developer Roadmap
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Featured Projects</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Featured Projects</h2>
 
 *<span>Coming soon! Stay tuned for my web apps and experiments.</span>*
 
@@ -117,18 +108,14 @@ title Developer Roadmap
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Certifications & Achievements</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Certifications & Achievements</h2>
 
 📜 <span>Coming soon...</span>
 <p align="center">
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Communities & Collaboration</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Communities & Collaboration</h2>
 
 <span>Open to joining hackathons, tech communities, and contributing to open source projects.<br>
 Let’s connect and build something awesome together!</span>
@@ -136,9 +123,7 @@ Let’s connect and build something awesome together!</span>
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Github Stats</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Github Stats</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MiceDe27&show_icons=true&theme=radical" height="150"/>
@@ -149,9 +134,7 @@ Let’s connect and build something awesome together!</span>
   <img src="assets/micedekun.gif" width="100%" height="3px"/>
 </p>
 
-<img src="assets/flame.webp" width="30px" align="left"/>
-<img src="assets/flame.webp" width="30px" align="right"/>
-<h2 align="center">Contact Me</h2>
+<img src="assets/flame.gif" width="50px" align="left"/><img src="assets/flame.gif" width="50px" align="right"/><h2 align="center">Contact Me</h2>
 
 <p align="center">
   <a href="mailto:micedekun27@gmail.com" title="Email">
